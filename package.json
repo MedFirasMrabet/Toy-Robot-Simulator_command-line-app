@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js"
+  },
+  "name": "toyrobotsimulator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
