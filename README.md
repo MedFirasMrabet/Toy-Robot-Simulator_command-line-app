@@ -18,7 +18,7 @@ The application simulates a toy robot moving on a 5x5 square tabletop. The robot
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/MedFirasMrabet/Toy-Robot-Simulator_command-line-app.git
 cd toy-robot-simulator
 ```
 
